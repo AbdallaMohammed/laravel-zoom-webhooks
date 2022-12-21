@@ -1,5 +1,5 @@
 {
-    "name": "binary-cats/laravel-zoom-webhooks",
+    "name": "abdallamohammed/laravel-zoom-webhooks",
     "description": "Handle Zoom.us webhooks in a Laravel application",
     "keywords": [
         "binary-cats",
