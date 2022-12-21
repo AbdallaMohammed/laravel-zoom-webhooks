@@ -4,7 +4,7 @@ namespace BinaryCats\ZoomWebhooks;
 
 use BinaryCats\ZoomWebhooks\Exceptions\WebhookFailed;
 use Illuminate\Support\Arr;
-use Spatie\WebhookClient\ProcessWebhookJob;
+use Spatie\WebhookClient\Jobs\ProcessWebhookJob;
 
 class ProcessZoomWebhookJob extends ProcessWebhookJob
 {
